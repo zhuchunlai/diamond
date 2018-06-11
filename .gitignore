@@ -5,3 +5,6 @@
 /diamond-server/src/main/webapp/config-data
 logs
 target
+
+.idea/
+**/*.iml
